@@ -32,8 +32,6 @@
   
 
   
-
-  
   
 
   
@@ -46,7 +44,7 @@
   
 
   
-      ,"page8": {
+      ,"page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://abdelmoudjib-benterki.github.io/Web/robots.txt",
